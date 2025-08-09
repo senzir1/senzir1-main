@@ -84,3 +84,6 @@ ntgcalls
 pytube
 yt_dlp
 cryptography
+
+
+#Copyright ©️ @def_zoka - @senzir1
