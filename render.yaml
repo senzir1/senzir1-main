@@ -33,3 +33,5 @@ services:
           name: V1
           property: connectionString
     autoDeploy: false
+
+#Copyright ©️ @def_zoka - @senzir1
