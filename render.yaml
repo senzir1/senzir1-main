@@ -9,7 +9,7 @@ services:
     name: V1
     env: python
     buildCommand: pip install -U -r requirements.txt
-    startCommand: python3 Tepthon.py
+    startCommand: python3 refz.py
     region: frankfurt
     envVars:
       - key: APP_ID
